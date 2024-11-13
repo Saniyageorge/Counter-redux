@@ -1,0 +1,14 @@
+*{
+    font-family: "Bebas Neue", sans-serif;
+}
+body{
+background-color: black;  
+ 
+ }
+
+ .container{
+    background-color: aquamarine;
+ }
+ .counter{
+    color: palevioletred;
+ }
